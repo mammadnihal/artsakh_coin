@@ -1,0 +1,16 @@
+{
+  "name": "Artsakh Coin",
+  "symbol": "ARTS",
+  "decimals": 18,
+  "description": "Artsakh Coin is a new cryptocurrency created to support the community of Turan.",
+  "website": "http://dotpay.me/",
+  "explorer": "https://bscscan.com/token/0x1420e905Fd721bb7DaB0A7334538d22c4873006C",
+  "status": "active",
+  "id": "0x1420e905Fd721bb7DaB0A7334538d22c4873006C",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/username/assets/master/blockchains/smartchain/assets/0x1420e905Fd721bb7DaB0A7334538d22c4873006C/logo.png",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": ""
+  }
+}
